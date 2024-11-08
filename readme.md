@@ -1,0 +1,1 @@
+https://django-deployment-d6rp9z2pm-saurabh-singh02s-projects.vercel.app
